@@ -1,10 +1,10 @@
-<img width="auto" src="https://github.com/alexiakattah/alexiakattah/blob/master/banner.png">
+<img width="auto" src="https://github.com/pedrorichil/pedrorichil/blob/master/banner.png">
 
 
-# MRX
+# krypton
 
 ## Olá pessoal 👋
-Sou apaixonada por resolver problemas utilizando a programação.
+Sou apaixonado por resolver problemas utilizando a programação.
 Backend Developer :computer:
 
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Frontend e Backend em python
