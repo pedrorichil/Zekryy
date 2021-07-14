@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/%20-React-000000?style=flat-square&logo=React" /> <br />
   <img src="https://img.shields.io/badge/%20-Next.js-000000?style=flat-square&logo=Next.js" /> <br />
   <img src="https://img.shields.io/badge/%20-Express-000000?style=flat-square&logo=Express" /> 
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=pedrokpp&count_private=true&theme=nightowl&show_icons=true" /> <br /> 
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=pedrorichil&count_private=true&theme=nightowl&show_icons=true" /> <br /> 
   <img src="https://img.shields.io/badge/%20-MongoDB-000000?style=flat-square&logo=MongoDB" /> <br />
   <img src="https://img.shields.io/badge/%20-Discord.js-000000?style=flat-square&logo=Discord" /> <br />
   <img src="https://img.shields.io/badge/%20-HTML5-000000?style=flat-square&logo=HTML5" /> <br /> 
