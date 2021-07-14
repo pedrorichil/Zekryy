@@ -1,7 +1,7 @@
 <img width="auto" src="https://github.com/pedrorichil/pedrorichil/blob/main/banner.jpg">
 
 
-# krypton
+# Crypto
 
 ## Olá pessoal 👋
 Sou apaixonado por resolver problemas utilizando a programação.
