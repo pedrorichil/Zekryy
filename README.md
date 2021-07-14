@@ -12,4 +12,4 @@ Backend Developer :computer:
  <br/> 💬  &nbsp; Sobre mim: tecnologias, família e seriados no Netflix
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-Pedrorichil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrorichil/)](https://www.linkedin.com/in/pedrorichil/) 
 | 
-[![Gmail Badge](https://img.shields.io/badge/-pedrorichillbia@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedrorichillbia@gmail.com)](mailto:pedrorichillbia@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-pedrorichil@protonmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedrorichil@protonmail.com)](mailto:pedrorichillbia@gmail.com)
