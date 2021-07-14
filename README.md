@@ -1,15 +1,39 @@
-<img width="auto" src="https://github.com/pedrorichil/pedrorichil/blob/main/banner.jpg">
+## 😉 Howdy
 
+<img align="right" src="./dog.gif">
 
-# Crypto
+#### Welcome to my world 
 
-## Olá pessoal 👋
-Sou apaixonado por resolver problemas utilizando a programação.
-Backend Developer :computer:
+💑 For some random reason I fell in love with back end development
 
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Frontend e Backend em python
- <br/> :computer: &nbsp; Minha stack: Python, Rust, C e C++
- <br/> 💬  &nbsp; Sobre mim: tecnologias, família e seriados no Netflix
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-Pedrorichil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrorichil/)](https://www.linkedin.com/in/pedrorichil/) 
-| 
-[![Gmail Badge](https://img.shields.io/badge/-pedrorichil@protonmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedrorichil@protonmail.com)](mailto:pedrorichillbia@gmail.com)
+🎓 Currently learning more about front end development in order to be a good full stack developer
+
+🎉 17 years old
+
+🤗 Send me a message on my discord if you have any issue with something that I made: ``crypto#0141``
+<br /> <br />
+
+## 🤯 Technologies I know at the moment
+
+<p align="left">
+  <img src="https://img.shields.io/badge/%20-Node.js-000000?style=flat-square&logo=Node.js" /> <br /> 
+  <img src="https://img.shields.io/badge/%20-TypeScript-000000?style=flat-square&logo=TypeScript" /> <br />
+  <img src="https://img.shields.io/badge/%20-React-000000?style=flat-square&logo=React" /> <br />
+  <img src="https://img.shields.io/badge/%20-Next.js-000000?style=flat-square&logo=Next.js" /> <br />
+  <img src="https://img.shields.io/badge/%20-Express-000000?style=flat-square&logo=Express" /> 
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=pedrokpp&count_private=true&theme=nightowl&show_icons=true" /> <br /> 
+  <img src="https://img.shields.io/badge/%20-MongoDB-000000?style=flat-square&logo=MongoDB" /> <br />
+  <img src="https://img.shields.io/badge/%20-Discord.js-000000?style=flat-square&logo=Discord" /> <br />
+  <img src="https://img.shields.io/badge/%20-HTML5-000000?style=flat-square&logo=HTML5" /> <br /> 
+  <img src="https://img.shields.io/badge/%20-CSS3-000000?style=flat-square&logo=CSS3" /> <br /> 
+  <img src="https://img.shields.io/badge/%20-Python-000000?style=flat-square&logo=Python" /> <br />
+  <img src="https://img.shields.io/badge/%20-Flask-000000?style=flat-square&logo=Flask" /> <br />
+  <img src="https://img.shields.io/badge/%20-Golang-000000?style=flat-square&logo=Go" /> <br /> 
+  <img src="https://img.shields.io/badge/%20-C++-000000?style=flat-square&logo=C%2B%2B" /> <br />
+  <img src="https://img.shields.io/badge/%20-Unity-000000?style=flat-square&logo=Unity" /> <br /> 
+  <img src="https://img.shields.io/badge/%20-Java-000000?style=flat-square&logo=Java" /> <br /> 
+  <img src="https://img.shields.io/badge/%20-MySQL-000000?style=flat-square&logo=MySQL" /> <br /> 
+  <img src="https://img.shields.io/badge/%20-Maven-000000?style=flat-square&logo=Apache%20Maven" /> <br /> 
+  <img src="https://img.shields.io/badge/%20-Gradle-000000?style=flat-square&logo=Gradle" /> <br /> 
+  <img src="https://img.shields.io/badge/%20-Git-000000?style=flat-square&logo=Git" /> <br />
+</p>
