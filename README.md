@@ -13,6 +13,11 @@
 🤗 Send me a message on my discord if you have any issue with something that I made: ``crypto#0141``
 <br /> <br />
 
+1º Nenhum sistema é seguro.
+
+2º Mire no impossível.
+
+3º Divirta-se no cyber-espaço e no mundo virtual.
 ## 🤯 Technologies I know at the moment
 
 <p align="left">
