@@ -12,7 +12,7 @@
 2º Mire no impossível.
 
 3º Divirta-se no cyber-espaço e no mundo virtual.
-## 🤯 Technologies I know at the moment
+## 🤯 Tecnologias que domino no momento
 
 <p align="left">
   <img src="https://img.shields.io/badge/%20-Node.js-000000?style=flat-square&logo=Node.js" /> <br /> 
