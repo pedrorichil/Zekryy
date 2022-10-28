@@ -20,5 +20,5 @@
   <br /> 
   <img src="https://img.shields.io/badge/%20-CSHARP-000000?style=flat-square&logo=CSHARP" /> <br /> 
   <img src="https://img.shields.io/badge/%20-CSS3-000000?style=flat-square&logo=CSS3" /> <br /> 
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=pedrorichil&count_private=true&theme=nightowl&show_icons=true" /> <br />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=pedrorichil&count_private=true&theme=radical&show_icons=true&hide=stars,commits,prs,issues,contribs" /> <br />
 </p>
