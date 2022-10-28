@@ -16,9 +16,9 @@
   <img src="https://img.shields.io/badge/%20-TypeScript-000000?style=flat-square&logo=TypeScript" /> <br />
   <img src="https://img.shields.io/badge/%20-React-000000?style=flat-square&logo=React" /> <br />
   <img src="https://img.shields.io/badge/%20-Next.js-000000?style=flat-square&logo=Next.js" /> <br />
-  <img src="https://img.shields.io/badge/%20-Express-000000?style=flat-square&logo=Express" /> 
+  <img src="https://img.shields.io/badge/%20-HTML5-000000?style=flat-square&logo=HTML5" /> 
   <br /> 
-  <img src="https://img.shields.io/badge/%20-HTML5-000000?style=flat-square&logo=CSHARP" /> <br /> 
+  <img src="https://img.shields.io/badge/%20-C#-000000?style=flat-square&logo=CSHARP" /> <br /> 
   <img src="https://img.shields.io/badge/%20-CSS3-000000?style=flat-square&logo=CSS3" /> <br /> 
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=pedrorichil&count_private=true&theme=nightowl&show_icons=true" /> <br />
 </p>
