@@ -11,6 +11,7 @@
 ## 🤯 Tecnologias que domino no momento
 
 <p align="left">
+  <img src="https://img.shields.io/badge/%20-Python-000000?style=flat-square&logo=Python" /> <br />
   <img src="https://img.shields.io/badge/%20-Node.js-000000?style=flat-square&logo=Node.js" /> <br /> 
   <img src="https://img.shields.io/badge/%20-TypeScript-000000?style=flat-square&logo=TypeScript" /> <br />
   <img src="https://img.shields.io/badge/%20-React-000000?style=flat-square&logo=React" /> <br />
@@ -19,6 +20,5 @@
   <br /> 
   <img src="https://img.shields.io/badge/%20-HTML5-000000?style=flat-square&logo=HTML5" /> <br /> 
   <img src="https://img.shields.io/badge/%20-CSS3-000000?style=flat-square&logo=CSS3" /> <br /> 
-  <img src="https://img.shields.io/badge/%20-Python-000000?style=flat-square&logo=Python" /> <br />
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=pedrorichil&count_private=true&theme=nightowl&show_icons=true" /> <br />
 </p>
