@@ -7,7 +7,7 @@
 
 #### Sobre 💬
 
-![Alt text](photo_5077915301663845149_x.jpg?raw=true "Title")
+![Alt text](photo_5077915301663845150_y.jpg?raw=true "Title")
 
 
 ## 🤯 Tecnologias que domino no momento
