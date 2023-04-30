@@ -12,10 +12,11 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/%20-Python-000000?style=flat-square&logo=Python" /> <br />
+  <img src="https://img.shields.io/badge/%20-Python-000000?style=flat-square&logo=CPLUS" /> <br />
+  <img src="https://img.shields.io/badge/%20-Python-000000?style=flat-square&logo=JAVA" /> <br />
   <img src="https://img.shields.io/badge/%20-Node.js-000000?style=flat-square&logo=Node.js" /> <br /> 
   <img src="https://img.shields.io/badge/%20-JavaScript-000000?style=flat-square&logo=javascript" /> <br />
   <img src="https://img.shields.io/badge/%20-HTML5-000000?style=flat-square&logo=HTML5" /> <br /> 
-  <img src="https://img.shields.io/badge/%20-CSHARP-000000?style=flat-square&logo=CSHARP" /> <br /> 
-  <img src="https://img.shields.io/badge/%20-CSS3-000000?style=flat-square&logo=CSS3" /> <br /> 
+  <img src="https://img.shields.io/badge/%20-CSHARP-000000?style=flat-square&logo=CSHARP" /> <br />  
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=zekryy&count_private=true&theme=radical&show_icons=true&hide=prs" /> <br />
 </p>
