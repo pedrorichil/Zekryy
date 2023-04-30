@@ -7,7 +7,7 @@
 
 #### Sobre 💬
 
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
+![Alt text](photo_5077915301663845148_y.jpg?raw=true "Title")
 
 
 ## 🤯 Tecnologias que domino no momento
