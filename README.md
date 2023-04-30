@@ -13,7 +13,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/%20-Python-000000?style=flat-square&logo=Python" /> <br />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" /> <br />
-  <img src="https://img.shields.io/badge/%20-Java-000000?style=flat-square&logo=JAVA" /> <br />
+  <img src="https://img.shields.io/badge/%20-java-000000?style=flat-square&logo=JAVA" /> <br />
   <img src="https://img.shields.io/badge/%20-Node.js-000000?style=flat-square&logo=Node.js" /> <br /> 
   <img src="https://img.shields.io/badge/%20-JavaScript-000000?style=flat-square&logo=JavaScript" /> <br />
   <img src="https://img.shields.io/badge/%20-HTML5-000000?style=flat-square&logo=HTML5" /> <br /> 
