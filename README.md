@@ -28,5 +28,3 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=zekryy&count_private=true&theme=radical&show_icons=true&hide=prs)
 
 --- 
-
-Se houver alguma dúvida ou informação adicional que você gostaria de incluir, por favor, me avise!
