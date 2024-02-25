@@ -1,4 +1,3 @@
-Claro, aqui está uma reescrita do perfil:
 
 ---
 
