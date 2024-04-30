@@ -19,9 +19,6 @@
 
 - Python
 - C++
-- Node.js
-- JavaScript
-- HTML5
 - C#
 - Java
 
