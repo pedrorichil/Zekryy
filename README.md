@@ -1,7 +1,7 @@
 
 ---
 
-# Zekry (Pedro Brito)
+# Pedro Brito
 
 [![Linkedin Badge](https://img.shields.io/badge/-pedrorichil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrorichil/)](https://www.linkedin.com/in/pedrorichil/)
 [![Gmail Badge](https://img.shields.io/badge/-Pedrorichillbia@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedrorichillbia@gmail.com)](mailto:pedrorichillbia@gmail.com)
