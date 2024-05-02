@@ -14,7 +14,7 @@
 
 </div>
 
-<img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
+<img src="lineBar.png" width="100%" height="8px"/>
 
 <div><br />
 
