@@ -1,6 +1,6 @@
 <!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=80F7D4&height=120&section=header"/> -->
 
-<img width=100% src="./.github/assets/banner.png"/>
+<img width=100% src="photo_5077915301663845150_y.jpg"/>
 
 <div align='center'>
 
